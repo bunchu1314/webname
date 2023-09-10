@@ -1,0 +1,43 @@
+/* div {
+    width: 500px;
+    height: 500px;
+    background-color: #1f9997;
+    border: 7px solid #ff5500;
+    margin: auto;
+} */
+/* 
+body {
+    background-color: bisque;
+}
+.myDiv {
+    border: 5px dotted red;
+    background-color: lightblue;
+    text-align: center;
+  }
+  .but {
+        width: 728px;
+        height: 485px;
+        margin-top: 10;
+        margin-left: 400;
+      border: 5px outset blue;
+      text-align: center;
+      background-image: url(/img/5555.jpg);
+      position: fixed;
+      
+  }
+  .bt {
+      width: 1514px;
+      height: 130px;
+      border: solid red;
+      text-align: center;
+      background-color: aquamarine
+      
+  } */
+table, th, td {
+  border: 2px solid;
+  margin: auto;
+  
+
+}
+
+
